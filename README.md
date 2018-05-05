@@ -13,16 +13,6 @@ You will learn how to collect, clean and analyse big data using popular open sou
 
 ## Courses
 
-* #### <img src="https://prod-discovery.edx-cdn.org/media/course/image/b3c02aea-cbf6-4fc4-a730-0433860e2a35-5292db61e0c2.small.jpg" width=150> [Python for Data Science](https://www.edx.org/course/python-for-data-science)<br> 
-
-* #### 
-* ####  <br>
-
-*  #### <img src="https://prod-discovery.edx-cdn.org/media/course/image/21be6203-b140-422c-9233-a1dc278d7266-0d68db3af9a4.small.jpg" width=150> [Big Data Analytics Using Spark](https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x)<br>
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
 |Image|Course Name|Description|
 |----------------|-------------------------------|-----------------------------|
 |<img src="https://prod-discovery.edx-cdn.org/media/course/image/b3c02aea-cbf6-4fc4-a730-0433860e2a35-5292db61e0c2.small.jpg" width=150>|**[Python for Data Science](https://www.edx.org/course/python-for-data-science)**|**Learn to use powerful, open-source, Python tools, including Pandas, Git and Matplotlib, to manipulate, analyze and visualize complex datasets.**|
