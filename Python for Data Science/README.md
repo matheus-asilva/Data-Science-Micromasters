@@ -144,3 +144,123 @@ By learning these skills, you’ll also become a member of a world-wide communit
     * Live Code: Data Visualization
     * Pandas: Frequent Data Operations
     * Live Code: Frequent Data Operations
+  * Working with Pandas Part 3
+    * Pandas: Merging DataFrames
+    * Pandas: Frequent String Operations
+    * Pandas: Parsing Timestamps
+    * Pandas: Summary of Movie Rating Notebook
+    * Coding Practice
+    * Pandas Discussion
+    * Pandas Efficiency - Extra Video Resource
+  * Week 4: Assessment
+    * Week 4 Quiz
+  * Week 4: Questions/Concerns
+    * Questions/Concerns Discussion
+* Week 5 - Data Visualization
+  * Introduction to Data Visualization
+    * Data Visualization
+    * Role of Visualization
+    * Types of Visualizations
+    * Key Design Principles
+    * Visualization Discussion
+  * Matplotlib and Other Libraries
+    * Notebooks for Week 5
+    * Matplotlib
+    * World Development Indicators
+    * Basic Plotting in Matplotlib: Part 1
+    * Basic Plotting in Matplotlib: Part 2
+    * Matplotlib Additional Examples
+    * Folium Example
+    * Visualization Libraries
+    * Coding Practice
+    * Dataset Discussion
+  * Case Studies
+    * Case Study 1: Cholera
+    * Case Study 2: Napoleon's March
+    * Case Study 3 - Interactive Visualization of World Data
+    * Case Studies Discussion
+  * Week 5: Assessment
+    * Week 5 Quiz
+  * Week 5: Questions/Concerns
+    * Questions/Concerns Discussion
+* Week 6 - Mini Project Week
+  * Mini Project
+    * Mini-Project Description
+    * Mini-Project Rubric
+    * Mini Project Submission
+    * Mini Project
+* Week 7 - Introduction to Machine Learning
+  * Introduction to Machine Learning
+    * Introduction to Machine Learning
+    * Categories of Machine Learning
+    * Terminology Related to Machine Learning
+    * Scikit-learn: Machine Learning in Python
+    * Notebooks for Week 7
+    * Introduction to Machine Learning Discussion
+  * Classification
+    * Classification
+    * Building and Applying a Classification Model
+    * Decision Trees
+    * Live Code: Decision Trees
+    * Classification Discussion
+  * Clustering
+    * Clustering
+    * k-Means Clustering
+    * Live Code: Clustering
+    * Clustering Discussion
+  * Regression Analysis
+    * Regression Analysis
+    * Linear Regression
+    * Live Code: Linear Regression
+    * Expert Use of Machine Learning
+    * Coding Practice
+  * Week 7: Assessment
+    * Week 7 Quiz
+  * Week 7: Questions/Concerns
+    * Questions/Concerns Discussion
+* Week 8 - Working with Text and Databases
+  * Working With Databases
+    * Notebooks for Week 8
+    * Relational Data Model
+    * Structured Query Language
+    * Live Code: Structured Query Language
+  * Natural Language Processing with NLTK
+    * Natural Language Processing with nltk
+    * nltk corpora
+    * tokenize
+    * Build a Bag-of-Words Model
+    * Plotting Frequency of Words
+    * Sentiment Analysis
+    * Natural Language Processing Discussion
+  * Twitter - Working with Text
+    * Access the Twitter API
+    * Authenticate with the Twitter API in Python
+    * Explore Twitter Trends
+    * Explore Twitter Search
+    * Create Frequency Distributions
+    * Coding Practice
+    * Twitter Discussion
+  * Week 8: Assessment
+    * Week 8 Quiz
+  * Week 8: Questions/Concerns
+    * Questions/Concerns Discussion
+* Week 9 - Final Project Part 1
+  * Final Project Overview
+    * Project Week
+    * Project Description
+    * How your project will be assessed
+    * Where to find datasets
+    * Introduction to Example Notebooks
+    * Notebooks for Week 9
+    * Astrophysics Example
+    * Protein Database Example
+  * Week 9: Checkpoint
+    * Submit Project Checkpoint
+* Week 10 - Final Project Part 2
+  * Final Project Submission
+    * Final Project
+  * Preparing for the Final Exam
+    * Final Exam Preparation Tips
+    * (Optional) Proctoring Requirements and Support'
+  * Final Exam
+    * Final Exam
