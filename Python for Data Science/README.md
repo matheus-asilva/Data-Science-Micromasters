@@ -41,3 +41,106 @@ By learning these skills, you’ll also become a member of a world-wide communit
     * Data Science Process Discussion
   * Week 1: Assessment
     * Week 1 Quiz
+  *  Week 1: Questions/Concerns
+    * Questions/Concerns Discussion
+* Week 2: (Optional) Background in Python and Unix
+  * Week Introduction
+    * Introduction
+  * Python: Basics
+    * Python Overview
+    * Expert Video - Value of Python in Data Science
+    * Running python
+    * Python: Variables
+    * Python: Objects Part 1
+    * Python: Objects Part 2
+    * Python: Variables Practice Quiz
+    * Python: Variables Quiz Explanation
+    * Python: Loops
+    * Python: Loop Practice Quiz
+    * Python: Loop Quiz Explanation
+    * Python: Conditions
+    * Python: Functions
+    * Python: Function Practice Quiz 1
+    * Python: Function Quiz 1 Explanation
+    * Python: Function Practice Quiz 2
+    * Function Quiz Explanation: False vs Swap
+    * Python: Scope
+  * Python: Key Data Structures
+    * Data Structures and Basic Libraries in Python
+    * String Functions
+    * Lists in Python
+    * Reference Practice Quiz
+    * Reference Quiz Explanation
+    * Tuples in Python
+    * Dictionaries in Python
+    * List and Dictionary Comprehension
+    * Sets in Python
+    * (Optional) Week 2 Assignment: Python Word Count
+  * UNIX
+    * Unix is Entirely OPTIONAL
+    * Introduction to Unix
+    * Running UNIX
+    * Unix - Files from Examples
+    * Live Code: Intro to UNIX
+    * Basic Unix Commands
+    * Live Code: Basic UNIX Commands
+    * Redirecting Standard IO
+    * Live Code: Redirecting Standard IO
+    * Pipes and Filters
+    * Live Code: Pipes and Filters
+    * Useful UNIX Commands for Data Science
+    * Live Code: Useful UNIX Commands for Data Science
+  * (Optional) Week 2: Assessment
+    * Optional End of Week 2 Quiz
+  * Week 2: Questions/Concerns
+    * Questions/Concerns Discussion
+* Week 3 - Jupyter Notebooks and Numpy
+  * Jupyter Notebooks
+    * Why Jupyter Notebooks?
+    * Jupyter: Getting Started
+    * Setting up your system
+    * Live Code: Getting Started
+    * Documenting Analysis with Markdown Text
+    * Live Code: Documenting Analysis with Markdown Text
+    * Jupyter: Additional Tips
+    * Live Code: Additional Tips
+    * Live: Using UNIX in Jupyter
+    * UNIX in Jupyter Notebooks
+    * Jupyter Notebook Discussion
+  * Numpy
+    * Why Numpy
+    * Notebooks for Week 3
+    * Numpy: ndarray basics
+    * Numpy: ndarray indexing
+    * Numpy: ndarray boolean indexing
+    * Numpy: ndarray Datatypes and Operations
+    * Numpy: Statistical, Sorting, and Set Operations
+    * Numpy: Broadcasting
+    * Numpy: Speed Test ndarray vs. list
+  * Satellite Image Application in numpy
+    * Satellite Image Example
+    * (Optional) WIFIRE Overview
+    * Live Code: Satellite Example Part A
+    * Live Code: Satellite Example Part B
+    * Coding Practice
+    * Satellite Image Discussion
+  * Week 3: Assessment
+    * Week 3 Quiz
+  * Week 3: Questions/Concerns
+    * Questions/Concerns Discussion
+* Week 4 - Pandas
+  * Working with Pandas Part 1
+    * Why pandas
+    * Notebooks for Week 4
+    * Live Code: Why pandas
+    * Pandas: Data Ingestion
+    * Live Code: Data Ingestion
+    * Pandas: Descriptive Statistics
+    * Live Code: Descriptive Statistics
+  * Working with Pandas Part 2
+    * Pandas: Data Cleaning
+    * Live Code: Data Cleaning
+    * Pandas: Data Visualization
+    * Live Code: Data Visualization
+    * Pandas: Frequent Data Operations
+    * Live Code: Frequent Data Operations
