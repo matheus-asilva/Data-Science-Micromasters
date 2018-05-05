@@ -4,7 +4,7 @@
 >*MicroMasters programs are a series of graduate level courses from top universities designed to advance your career. They provide deep learning in a specific career field and are recognized by employers for their real job relevance. Students may apply to the university offering credit for the MicroMasters certificate and, if accepted, can pursue an accelerated and less expensive Master’s Degree.*
 
 
-## About Data Science MicroMasters
+### About Data Science MicroMasters
 
 >In this MicroMasters program, you will develop a well-rounded understanding of the mathematical and computational tools that form the basis of data science and how to use those tools to make data-driven business recommendations. <br><br>
 This MicroMasters program encompasses two sides of data science learning: the mathematical and the applied. <br><br>
