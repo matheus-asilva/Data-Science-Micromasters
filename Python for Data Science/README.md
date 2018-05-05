@@ -1,4 +1,4 @@
-##About this course
+## About this course
 In the information age, data is all around us. Within this data are answers to compelling questions across many societal domains (politics, business, science, etc.). But if you had access to a large dataset, would you be able to find the answers you seek?
 
 This course, part of the Data Science MicroMasters program, will introduce you to a collection of powerful, open-source, tools needed to analyze data and to conduct data science. Specifically, you’ll learn how to use:
